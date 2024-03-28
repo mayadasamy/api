@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    text-align: center;
+}
+
+
+.tableStyle table {
+    border: 1px solid #bd32b1;
+    height: 100%;
+    width: 100%;
+    border-spacing: 1px;
+    
+}
+
+
+
+.tableStyle th {
+    border: 1px solid #33182f;
+    background-color: #b84cab;
+    color: #000000;
+    padding: 5px;
+}
+
+.tableStyle td {
+    border: 1px solid #750b45;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 5px;
+}
+
+
+img{
+    width: 50px;
+    height: 50px;
+}
